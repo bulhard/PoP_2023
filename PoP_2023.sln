@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Classes", "03_Classes\03
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Animals", "03_Animals\03_Animals.csproj", "{596D5776-C534-4ECF-85CB-3FD6728BF4B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Student", "03_Student\03_Student.csproj", "{5AB6FE43-CF7D-40E0-B8AF-4FDBE20BC710}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Student", "03_Student\03_Student.csproj", "{5AB6FE43-CF7D-40E0-B8AF-4FDBE20BC710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Generics", "04_Generics\04_Generics.csproj", "{F442B6DA-CDCA-4365-BDE3-4F03871F92EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_Generics", "04_Generics\04_Generics.csproj", "{F442B6DA-CDCA-4365-BDE3-4F03871F92EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_TextFiles", "05_TextFiles\05_TextFiles.csproj", "{8E296869-2D76-44E3-9951-D3B799CF1B89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F442B6DA-CDCA-4365-BDE3-4F03871F92EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F442B6DA-CDCA-4365-BDE3-4F03871F92EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F442B6DA-CDCA-4365-BDE3-4F03871F92EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E296869-2D76-44E3-9951-D3B799CF1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E296869-2D76-44E3-9951-D3B799CF1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E296869-2D76-44E3-9951-D3B799CF1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E296869-2D76-44E3-9951-D3B799CF1B89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
