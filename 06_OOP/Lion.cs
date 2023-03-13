@@ -15,5 +15,7 @@
 
             base.Hunt();
         }
+
+        public AnimalKind AnimalKind { get; set; }
     }
 }

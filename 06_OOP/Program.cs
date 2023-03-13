@@ -3,7 +3,10 @@
 using _06_OOP;
 using _06_OOP.Humans;
 
-//Lion lion = new Lion();
+Lion lion = new Lion();
+lion.AnimalKind = AnimalKind.Mamal;
+
+lion.AnimalKind = (AnimalKind)30;
 //lion.Hunt();
 //// Tiger tiger = new Tiger();
 ///
